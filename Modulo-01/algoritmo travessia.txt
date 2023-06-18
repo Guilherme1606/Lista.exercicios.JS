@@ -1,0 +1,11 @@
+— Algoritmo Travessia.
+
+1: O Homem leva a cabra e a deixa do outro lado do rio.
+2: O homem retorna de barco vazio.
+3: O homem leva a alfafa para o outro lado do rio.
+4: O homem volta com a cabra, deixando a alfafa.
+5: O homem leva o lobo para o outro lado do rio, deixando a cabra.
+6: O homem retorna de barco vazio.
+7: O homem leva a cabra para o outro lado do rio. 
+
+Travessia concluída com sucesso. 
